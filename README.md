@@ -14,6 +14,8 @@ Loop K-480WLA, works fine with the TQP3M9037 amp
 
 Gerber files for loop to Amp:
 
+https://github.com/RSZ-Nld/TQP3M9037-Amp/blob/main/Pcb.zip
+
 
 
 Datasheet TQP3M9037 ic:
