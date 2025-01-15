@@ -10,6 +10,11 @@ Loop K-480WLA, works fine with the TQP3M9037 amp
 
 ![Photo 2](https://github.com/RSZ-Nld/TQP3M9037-Amp/blob/main/Loop%20wideband.JPG)
 
+![Photo 3](https://github.com/RSZ-Nld/TQP3M9037-Amp/blob/main/Pcb.JPG)
+
+Gerber files for loop to Amp:
+
+
 
 Datasheet TQP3M9037 ic:
 https://github.com/RSZ-Nld/TQP3M9037-Amp/blob/main/TQP3M9037_Data_Sheet-1500717.pdf
